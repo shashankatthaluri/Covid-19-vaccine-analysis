@@ -28,9 +28,8 @@ Key steps include data collection, processing, and visualization to provide mean
 
 ## Repository Structure 📂
 
-- `data/`: Contains datasets used for analysis.
-- `scripts/`: Houses scripts for data processing and analysis.
-- `results/`: Stores visualizations and findings.
+- `.csv/`: Contains datasets used for analysis.
+- `.ipynb/`: Stores code, visualizations and findings.
 
 ## How to Contribute 🤝🚀
 
